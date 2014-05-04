@@ -1,0 +1,2 @@
+## xamarin-smoothprogressbar ##
+Xamarin.Android Bindings for castorflex's [https://github.com/castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar "Smooth Progress Bar") library.
