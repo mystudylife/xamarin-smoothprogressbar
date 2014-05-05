@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30324.0
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmoothProgressBar", "SmoothProgressBar\SmoothProgressBar.csproj", "{2FE56052-E9B3-4E28-972F-475987E72873}"
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castorflex.Android.SmoothProgressBar", "Castorflex.Android.SmoothProgressBar\Castorflex.Android.SmoothProgressBar.csproj", "{2FE56052-E9B3-4E28-972F-475987E72873}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
